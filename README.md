@@ -1,22 +1,19 @@
-## Github 统计
+## RB93DETT
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=captain5&show_icons=true">
 
-Python
+Hi there👋
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
+Nice to meet you 🥳
 
+I'm rb93dett, a master student from HUST, China :)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
-![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
-
-## 博客
-
-https://www.cnblogs.com/rb26dett
+My research interest include Computer Vision and Autonomous Driving.
 
 <!-- 访客 -->
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=rb93dett.rb93dett" alt="visitor badge"/>
 </p>
+
+[![](https://img.shields.io/badge/Blog-%40rb93dett-red)](https://www.cnblogs.com/rb26dett)
+
+
