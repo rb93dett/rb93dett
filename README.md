@@ -1,4 +1,3 @@
-## RB93DETT
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rb93dett&show_icons=true"> -->
 
 Hi, I'm Bo Jiang, a MS student from @[hustvl](https://github.com/hustvl) supervised by Prof. [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/) and Prof. [Xinggang Wang](http://xinggangw.info).
