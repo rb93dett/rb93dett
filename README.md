@@ -1,11 +1,7 @@
 ## RB93DETT
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rb93dett&show_icons=true">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rb93dett&show_icons=true"> -->
 
-Hi there👋
-
-Nice to meet you 🥳
-
-I'm rb93dett, a master student from HUST, China :)
+Hi, I'm Bo Jiang, a MS student from @[hustvl](https://github.com/hustvl) supervised by Prof. [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/) and Prof. [Xinggang Wang](http://xinggangw.info).
 
 My research interest include Computer Vision and Autonomous Driving.
 
