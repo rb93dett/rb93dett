@@ -2,4 +2,4 @@
 
 I'm a Ph.D. student from @[HUST Vision Lab](https://github.com/hustvl) supervised by Prof. [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/) and Prof. [Xinggang Wang](https://xwcv.github.io/).
 
-Currently, I focus on Autonomous Driving, especially Motion Prediction and Planning & Control.
+My research interests include multimodal learning and embodied AI. Currently, I am working on autonomous driving algorithms.
